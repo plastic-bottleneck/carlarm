@@ -1,3 +1,3 @@
 CC := cc
 meow:
-	$(CC) timer.c -o timer
+	$(CC) carlarm.c -o carlarm
