@@ -1,7 +1,6 @@
 <h1 align="center"> . . . . ╰──╮ CARLARM ╭──╯ . . . .  </h1>
-<p align="center">‧˚₊•┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•‧₊˚⊹ </p>
-<p align="center">A smol, terminal-based countdown program for chads who love numbers and beep-boops.
-This program simulates a countdown, shows numbers in fancy-pants ASCII art, and does a fakey-fake command line thingy at da end.</p>
+<p align="center">A small, terminal-based countdown program for chads who love numbers and beep-boops.
+This program simulates a countdown, shows numbers in fancy-pants ASCII art, and does a fakey-fake command line thingy at the end.</p>
 
 ## ╰┈➤ Features . *.·༘ *
 
@@ -13,19 +12,12 @@ This program simulates a countdown, shows numbers in fancy-pants ASCII art, and 
 ## ╰┈➤ Stuff You Need ☄. *. ⋆ 
 
 - **Compiler**: A C-Compiler (like catual good things like TCC, CLANG, etc...)
-- **ffmpeg**: Dis program needs `ffplay`, which comes with [ffmpeg](https://ffmpeg.org/).
-- **Operating System**: Unix-like system (Linux, macOS, PLEASE OpenBSD, etc.) *because Windows is for dogs, apparently.*
+- **ffmpeg**: this program needs `ffplay`, which comes with [ffmpeg](https://ffmpeg.org/).
 
-## ╰┈➤ How to Install ⋆·˚ ༘ *
+## ╰┈➤ Install ⋆·˚ ༘ *
 
 ```bash
-git clone https://github.com/plastic-bottleneck/carlarm
-cd timer
 make && ./carlarm
 ```
 
 Now sit back, relax, and watch the countdown like a true sigma.
-
-<p align="center">‧˚₊•┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈୨୧┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•‧₊˚⊹ </p>
-<p align="center">୨⎯ Made by Paul ❤️ Plastic Bottleneck <a href="https://github.com/plastic-bottleneck">GitHub</a> ⎯୧</p>
-<p align="center">୨⎯ Check out my lynx friendly <a href="https://plastic-bottleneck.github.io">website</a> ⎯୧</p>
